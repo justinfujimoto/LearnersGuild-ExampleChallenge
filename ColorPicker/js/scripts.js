@@ -1,11 +1,11 @@
 var yellow = function() {
-  var a = document.getElementById("background").style.backgroundColor = "yellow";
+  var yellowBg = document.getElementById("background").style.backgroundColor = "yellow";
 }
 
 var red = function() {
-	var a = document.getElementById("background").style.backgroundColor = "red";
+	var redBg = document.getElementById("background").style.backgroundColor = "red";
 }
 
 var blue = function() {
-	var a = document.getElementById("background").style.backgroundColor = "blue";
+	var blueBg = document.getElementById("background").style.backgroundColor = "blue";
 }
